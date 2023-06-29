@@ -18,3 +18,5 @@ Start the server: npm start
 Usage
 Once the server is running, you can use an API testing tool like Insomnia or Postman to interact with the API endpoints. The base URL for the API is http://localhost:4005/api. The available routes include:
 
+Walkthrough Video: 
+https://drive.google.com/file/d/1-mn7xM39ZsgspqsOoZ_dnGXmKkZzy7r5/view
